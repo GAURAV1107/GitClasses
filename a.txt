@@ -1,4 +1,5 @@
 We are here to learn Git.
 
 Adding one more line
+
 Adding new lines

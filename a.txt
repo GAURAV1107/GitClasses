@@ -2,4 +2,4 @@ We are here to learn Git.
 
 Adding one more line
 
-Conflict
+Adding new lines
